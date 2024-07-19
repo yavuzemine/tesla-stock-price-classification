@@ -27,7 +27,6 @@ This repository contains Python scripts and Jupyter notebooks used to classify T
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yavuzemine/tesla-stock-classification.git
-   cd tesla-stock-classification
    
 Install the required libraries:
 
