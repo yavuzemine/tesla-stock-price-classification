@@ -37,8 +37,7 @@ python src/classify_tesla_stocks.py
 Results
 The chosen model, logistic regression, achieved an ROC AUC score of approximately 0.95 on the test data.
 Feature importance analysis identified key indicators influencing the classification.
-Author
-Your Name
-Contact: your.email@example.com
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+Author : Emine Yavuz 
+Contact: emineyavuzgsu@gmail.com
+License : This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
