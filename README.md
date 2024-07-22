@@ -4,8 +4,8 @@
 This repository contains Python script and Jupyter notebook used to classify the daily change of Tesla (TSLA) stock closing price with a threshold 5%.
 
 ## Project Structure
-- **data/**
-  - Contains the dataset `TSLA.csv` used in the analysis.
+- **Dataset**
+  - The dataset was obtained and used from https://www.kaggle.com/datasets/varpit94/tesla-stock-data-updated-till-28jun2021.
   
 - **notebooks/**
   - Jupyter notebooks for data exploration, feature engineering, model selection, and evaluation.
