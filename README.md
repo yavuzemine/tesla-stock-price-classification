@@ -1,7 +1,7 @@
 # Tesla Stock Price Classification
 
 ## Overview
-This repository contains Python scripts and Jupyter notebooks used to classify Tesla (TSLA) stock price movements based on various technical indicators and machine learning models.
+This repository contains Python script and Jupyter notebook used to classify the daily change of Tesla (TSLA) stock closing price with a threshold 5%.
 
 ## Project Structure
 - **data/**
