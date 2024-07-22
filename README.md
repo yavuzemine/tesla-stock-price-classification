@@ -28,19 +28,21 @@ This repository contains Python script and Jupyter notebook used to classify the
    ```bash
    git clone https://github.com/yavuzemine/tesla-stock-classification.git
    
-Install the required libraries:
+2. **Install the required libraries:**
+   ```bash
+   pip install -r requirements.txt
 
-pip install -r requirements.txt
+3. **Execute the classification process:**
+   ```bash
+   python src/classify_tesla_stocks.py
 
-Execute the classification process:
-
-python src/classify_tesla_stocks.py
-
-Results
+**Results**
 
 The chosen model, logistic regression, achieved an ROC AUC score of approximately 0.95 on the test data.
 Feature importance analysis identified key indicators influencing the classification.
 
 Author : Emine Yavuz 
+
 Contact: emineyavuzgsu@gmail.com
+
 License : This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
