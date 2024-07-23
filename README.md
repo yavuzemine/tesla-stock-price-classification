@@ -7,13 +7,13 @@ This repository contains Python script and Jupyter notebook used to classify the
 - **Dataset**
   - The dataset was obtained and used from https://www.kaggle.com/datasets/varpit94/tesla-stock-data-updated-till-28jun2021.
   
-- **notebooks/**
+- **notebook**
   - Jupyter notebooks for data exploration, feature engineering, model selection, and evaluation.
   - `1.0-Data-Exploration.ipynb`: Initial exploration of the dataset.
   - `2.0-Feature-Engineering.ipynb`: Feature engineering including exponential moving averages, stochastic oscillator, and relative strength index.
   - `3.0-Model-Selection-Evaluation.ipynb`: Model selection using logistic regression with cross-validation.
   
-- **src/**
+- **script**
   - Python script `classify_tesla_stocks.py` containing the `ClassifyTeslaStocks` class.
   
 - **README.md**
