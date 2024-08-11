@@ -5,7 +5,7 @@ This repository contains Python script and Jupyter notebook used to classify the
 
 ## Project Structure
 - **Dataset**
-  - The dataset was obtained and used from https://www.kaggle.com/datasets/varpit94/tesla-stock-data-updated-till-28jun2021.
+  - The dataset was obtained from https://www.kaggle.com/datasets/varpit94/tesla-stock-data-updated-till-28jun2021.
   
 - **notebook**
   - Jupyter notebooks for data exploration, feature engineering, model selection, and evaluation.
@@ -20,7 +20,7 @@ This repository contains Python script and Jupyter notebook used to classify the
   - This file providing an overview of the project, its structure, usage instructions, results, authorship, and licensing information.
 
 ## Requirements
-- Python 3.x
+- Python 3.10
 - Libraries: pandas, numpy, scikit-learn
 
 ## Usage
